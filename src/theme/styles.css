@@ -1,0 +1,41 @@
+
+.light-mode {
+  --primary-heading: #50aed9;
+  --secondary-heading: #2b92c2;
+  --matching-heading : rgb(226, 139, 241);
+  --primary-heading-translucent : #50aed941;
+  
+
+  --primary-text: #1d1a1a;
+  --primary-bg: rgb(231, 231, 231);
+  --matching-bg: rgb(195, 195, 195);
+
+  --secondary-text: #252425;
+  --secondary-bg: #f1f1f1;
+
+  --border-color: #100f0f35;
+  --link-color: #233971;
+
+  --matching-bg-1: rgb(241, 241, 241);
+  --matching-bg-2: rgb(211, 211, 211);
+}
+
+.dark-mode {
+  --primary-heading: #50aed9;
+  --secondary-heading: #3299c9;
+  --matching-heading : rgb(162, 86, 242);
+  --primary-heading-translucent : #50aed941;
+
+  --primary-text: #ffffff;
+  --primary-bg: #151515;  
+  --matching-bg: rgb(98, 118, 127);
+  --matching-bg-1: rgb(51, 51, 51);
+  --matching-bg-2: rgb(32, 32, 32);
+
+
+  --secondary-text: #e9e9e9;
+  --secondary-bg: #222222;
+  --border-color: #a5a2a22e;
+  --link-color : #4088cc;
+  --low-white : #cecece;
+}
