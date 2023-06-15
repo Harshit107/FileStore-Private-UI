@@ -21,6 +21,11 @@
 .upload-btn {
   display: none;
 }
+.fileupload-buttton {
+  margin-top: 20px;
+  padding: 3px 15px;
+
+}
 
 .file-label {
   cursor: pointer;
